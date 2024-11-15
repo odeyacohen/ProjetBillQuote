@@ -27,6 +27,13 @@
 # Entités
 - Administrateur
 - Utilisateur-Société
-- client
+- Client
 - Factures
-- devis 
+- Devis 
+
+# Attributs
+- Administrateur: Id_adm, nom, prenom, mail, mdp.
+- Société: Id_soc, nom_société, nom_gerant, prenom_gerant, mail_soc, tel_soc, mdp, img-logo
+- Facture: id_facture, numero_facture, date_enregistrement
+- Devis: id_devis, numero_devis, date_enregistrement
+- client: id_client, nom_client, prenom_client, societe_client, mail_client, tel_client
