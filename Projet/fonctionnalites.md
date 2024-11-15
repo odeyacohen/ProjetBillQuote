@@ -21,3 +21,12 @@
 
 ## Utilisateur Administrateur
 - Possibilité de suprimer un compte utilisateur
+
+
+
+# Entités
+- Administrateur
+- Utilisateur-Société
+- client
+- Factures
+- devis 
